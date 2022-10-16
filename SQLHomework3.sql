@@ -60,3 +60,4 @@ FROM Orders
 LEFT JOIN Customers ON Orders.CustomerId = Customers.Id
 LEFT JOIN Books ON Orders.BookId = Books.Id
 
+//checked
